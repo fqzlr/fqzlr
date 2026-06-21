@@ -1,4 +1,4 @@
-# 🙋 Hello <span style="font-size:16px;color:#666;">欢迎来到番茄主理人的主页 😝</span>
+# 🙋 Hello 
 <h1 align="center">
   <a href="https://fqzlr.com/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=躬身入局，心为主理，行有尺度，自持本心.;console.log(%22fqzlr的主页%22)">
@@ -8,6 +8,7 @@
 <div align="center">
   <img border-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/>
 </div>
+<span style="font-size:16px;color:#666;">欢迎来到番茄主理人的主页 😝</span>
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://fqzlr.com/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
