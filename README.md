@@ -1,9 +1,12 @@
 # 🙋 Hello
-欢迎来到番茄主理人的主页 😝
+<p align="center">
+欢迎来到番茄主理人的主页，静候同路人 😝
+</p>
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://fqzlr.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=躬身入局,心为主理,行有尺度,自持本心.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=躬身入局,心为主理,行有尺度,自持本心.;console.log(%22fqzlr%EF%BC%8C的主页
+    %22)">
   </a>
 </h1>
 
