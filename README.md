@@ -1,5 +1,5 @@
 # 🙋 Hello
-<p align="center" style="font-size:16px;color:#666;">欢迎来到番茄主理人的主页 😝</p>
+<div align="center">欢迎来到番茄主理人的主页 😝</div>
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://fqzlr.com/">
